@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ic.skyamg-front/static/css/main.75ebecc2.css",
-    "main.js": "/ic.skyamg-front/static/js/main.c6dedb1a.js",
+    "main.js": "/ic.skyamg-front/static/js/main.4e37c226.js",
     "static/js/787.7df8f71c.chunk.js": "/ic.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/3-1.jpg": "/ic.skyamg-front/static/media/3-1.f889ec2c97519d9416c1.jpg",
     "static/media/263A9095_편집본.png": "/ic.skyamg-front/static/media/263A9095_편집본.6dcd40be7b3761cd938b.png",
@@ -116,7 +116,6 @@
     "static/media/mgimg_heart.jpg": "/ic.skyamg-front/static/media/mgimg_heart.a7ea85a0f5acefdf3d8a.jpg",
     "static/media/visual_eme.jpeg": "/ic.skyamg-front/static/media/visual_eme.342c38e45feb3af8fe81.jpeg",
     "static/media/gsimg_tumor.jpg": "/ic.skyamg-front/static/media/gsimg_tumor.872d48bcb2ae990b5a5e.jpg",
-    "static/media/ic_2025081201.png": "/ic.skyamg-front/static/media/ic_2025081201.a8cf8c57bb3bf60b07d2.png",
     "static/media/gsimg_gs.jpg": "/ic.skyamg-front/static/media/gsimg_gs.a98e164ba1514f13b90b.jpg",
     "static/media/visual_gs.jpeg": "/ic.skyamg-front/static/media/visual_gs.339a702bec210533bad4.jpeg",
     "static/media/mgimg_breath.jpg": "/ic.skyamg-front/static/media/mgimg_breath.fd6c57cfd31066281a96.jpg",
@@ -165,6 +164,7 @@
     "static/media/image7.png": "/ic.skyamg-front/static/media/image7.dc121e809dd78f9d1432.png",
     "static/media/image10.png": "/ic.skyamg-front/static/media/image10.6ad571d72dbe3c5db829.png",
     "static/media/스카이유기동물사료.jpeg": "/ic.skyamg-front/static/media/스카이유기동물사료.c8149e6fbd398fbf9b7e.jpeg",
+    "static/media/ic_2025091801.png": "/ic.skyamg-front/static/media/ic_2025091801.bc5dd31cae6e145b649d.png",
     "static/media/수원척수MRI_2.jpeg": "/ic.skyamg-front/static/media/수원척수MRI_2.d05c9a2b91ca98d6cb16.jpeg",
     "static/media/스카이MRI_2.jpeg": "/ic.skyamg-front/static/media/스카이MRI_2.50d3e08299606c505b95.jpeg",
     "static/media/스카이초음파실.jpeg": "/ic.skyamg-front/static/media/스카이초음파실.e572fa90f145cf2bf6f3.jpeg",
@@ -182,11 +182,11 @@
     "index.html": "/ic.skyamg-front/index.html",
     "static/media/slick.woff": "/ic.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.75ebecc2.css.map": "/ic.skyamg-front/static/css/main.75ebecc2.css.map",
-    "main.c6dedb1a.js.map": "/ic.skyamg-front/static/js/main.c6dedb1a.js.map",
+    "main.4e37c226.js.map": "/ic.skyamg-front/static/js/main.4e37c226.js.map",
     "787.7df8f71c.chunk.js.map": "/ic.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75ebecc2.css",
-    "static/js/main.c6dedb1a.js"
+    "static/js/main.4e37c226.js"
   ]
 }
