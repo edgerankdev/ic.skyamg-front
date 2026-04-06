@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ic.skyamg-front/static/css/main.75ebecc2.css",
-    "main.js": "/ic.skyamg-front/static/js/main.6d1c524b.js",
+    "main.js": "/ic.skyamg-front/static/js/main.40be5c0a.js",
     "static/js/787.7df8f71c.chunk.js": "/ic.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/3-1.jpg": "/ic.skyamg-front/static/media/3-1.f889ec2c97519d9416c1.jpg",
     "static/media/263A9095_편집본.png": "/ic.skyamg-front/static/media/263A9095_편집본.6dcd40be7b3761cd938b.png",
@@ -26,16 +26,13 @@
     "static/media/DSC06764.jpg": "/ic.skyamg-front/static/media/DSC06764.110145e6dbc0f1667697.jpg",
     "static/media/doc_161.png": "/ic.skyamg-front/static/media/doc_161.b2ebde39b85a21858e50.png",
     "static/media/doc_171.png": "/ic.skyamg-front/static/media/doc_171.bf060f18b9cf4443c77b.png",
-    "static/media/doc_181.png": "/ic.skyamg-front/static/media/doc_181.e158a6fab5177ae0826d.png",
     "static/media/박성은.png": "/ic.skyamg-front/static/media/박성은.589eeadefaa2620077d5.png",
     "static/media/doc_162.png": "/ic.skyamg-front/static/media/doc_162.b3fd6c8122084460913d.png",
     "static/media/최아름.png": "/ic.skyamg-front/static/media/최아름.c4e2ed9adb3c2538aeff.png",
-    "static/media/doc_191.png": "/ic.skyamg-front/static/media/doc_191.a2955a4becd91926c48c.png",
     "static/media/서율지.png": "/ic.skyamg-front/static/media/서율지.34f7cce226c5df763ef6.png",
     "static/media/DSC06702.jpg": "/ic.skyamg-front/static/media/DSC06702.9143d6f0e6de394f32c3.jpg",
     "static/media/최신영.png": "/ic.skyamg-front/static/media/최신영.23b854ddaa0d5ece8dc6.png",
     "static/media/대기실.jpg": "/ic.skyamg-front/static/media/대기실.460f5611d738d0899876.jpg",
-    "static/media/doc_182.png": "/ic.skyamg-front/static/media/doc_182.4c421cdbb7635d69a81d.png",
     "static/media/doc_172.png": "/ic.skyamg-front/static/media/doc_172.4f0780c70dca2ff5164e.png",
     "static/media/DSC06711.jpg": "/ic.skyamg-front/static/media/DSC06711.088d8f1752ce6ecbee6c.jpg",
     "static/media/doc_151.png": "/ic.skyamg-front/static/media/doc_151.5b88959d69e6cc9fb8ae.png",
@@ -43,7 +40,6 @@
     "static/media/카운터.jpg": "/ic.skyamg-front/static/media/카운터.12161aa17f252dcbede0.jpg",
     "static/media/DSC06723.jpg": "/ic.skyamg-front/static/media/DSC06723.2e2be92d82a4039fef8c.jpg",
     "static/media/DSC06706.jpg": "/ic.skyamg-front/static/media/DSC06706.86c80a0534382adb0cbb.jpg",
-    "static/media/doc_192.png": "/ic.skyamg-front/static/media/doc_192.7d8d490719f2d94cc5f9.png",
     "static/media/DSC06699.jpg": "/ic.skyamg-front/static/media/DSC06699.0d4419eb5a978d918ce1.jpg",
     "static/media/4-1.png": "/ic.skyamg-front/static/media/4-1.be5f1e33e0234cffcb3c.png",
     "static/media/박주향.png": "/ic.skyamg-front/static/media/박주향.7ecef73379bd4f750d39.png",
@@ -173,6 +169,7 @@
     "static/media/no-img-big.png": "/ic.skyamg-front/static/media/no-img-big.3ea0f6aaa5e898b87bef.png",
     "static/media/스카이현판.jpeg": "/ic.skyamg-front/static/media/스카이현판.353d851566e2a084b4e9.jpeg",
     "static/media/스카이진료중.jpeg": "/ic.skyamg-front/static/media/스카이진료중.0aefd7eff318954c3935.jpeg",
+    "static/media/no-img.png": "/ic.skyamg-front/static/media/no-img.2c5380d03cd96982f5a1.png",
     "static/media/강아지진료_흑백.jpeg": "/ic.skyamg-front/static/media/강아지진료_흑백.2ee912b9cc28e269fe05.jpeg",
     "static/media/youtubelogo.png": "/ic.skyamg-front/static/media/youtubelogo.cedf497e7d47c839d088.png",
     "static/media/ico_quick.png": "/ic.skyamg-front/static/media/ico_quick.fd7c0b248c48a348e868.png",
@@ -182,11 +179,11 @@
     "index.html": "/ic.skyamg-front/index.html",
     "static/media/slick.woff": "/ic.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.75ebecc2.css.map": "/ic.skyamg-front/static/css/main.75ebecc2.css.map",
-    "main.6d1c524b.js.map": "/ic.skyamg-front/static/js/main.6d1c524b.js.map",
+    "main.40be5c0a.js.map": "/ic.skyamg-front/static/js/main.40be5c0a.js.map",
     "787.7df8f71c.chunk.js.map": "/ic.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75ebecc2.css",
-    "static/js/main.6d1c524b.js"
+    "static/js/main.40be5c0a.js"
   ]
 }
